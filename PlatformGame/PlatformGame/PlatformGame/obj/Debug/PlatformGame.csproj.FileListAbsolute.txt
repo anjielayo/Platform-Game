@@ -1,0 +1,9 @@
+C:\Users\ariel\OneDrive\Documents\400L\SIWES\SIWES PROJECTS\PlatformGame\PlatformGame\PlatformGame\bin\Debug\PlatformGame.exe.config
+C:\Users\ariel\OneDrive\Documents\400L\SIWES\SIWES PROJECTS\PlatformGame\PlatformGame\PlatformGame\bin\Debug\PlatformGame.exe
+C:\Users\ariel\OneDrive\Documents\400L\SIWES\SIWES PROJECTS\PlatformGame\PlatformGame\PlatformGame\bin\Debug\PlatformGame.pdb
+C:\Users\ariel\OneDrive\Documents\400L\SIWES\SIWES PROJECTS\PlatformGame\PlatformGame\PlatformGame\obj\Debug\PlatformGame.csprojResolveAssemblyReference.cache
+C:\Users\ariel\OneDrive\Documents\400L\SIWES\SIWES PROJECTS\PlatformGame\PlatformGame\PlatformGame\obj\Debug\PlatformGame.Form1.resources
+C:\Users\ariel\OneDrive\Documents\400L\SIWES\SIWES PROJECTS\PlatformGame\PlatformGame\PlatformGame\obj\Debug\PlatformGame.Properties.Resources.resources
+C:\Users\ariel\OneDrive\Documents\400L\SIWES\SIWES PROJECTS\PlatformGame\PlatformGame\PlatformGame\obj\Debug\PlatformGame.csproj.GenerateResource.Cache
+C:\Users\ariel\OneDrive\Documents\400L\SIWES\SIWES PROJECTS\PlatformGame\PlatformGame\PlatformGame\obj\Debug\PlatformGame.exe
+C:\Users\ariel\OneDrive\Documents\400L\SIWES\SIWES PROJECTS\PlatformGame\PlatformGame\PlatformGame\obj\Debug\PlatformGame.pdb
